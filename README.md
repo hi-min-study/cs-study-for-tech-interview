@@ -56,7 +56,7 @@ cs-study-for-tech-interview
 <br>
 
 ## 📌 키워드
-> 키워드 상세는 [Wiki](https://github.com/hi-min-study/cs-study-for-tech-interview/wiki/%F0%9F%93%8D-%ED%82%A4%EC%9B%8C%EB%93%9C)를 참고해주세요.
+> 키워드 상세는 [Wiki](https://github.com/hi-min-study/cs-study-for-tech-interview/wiki/%F0%9F%93%8C-%ED%82%A4%EC%9B%8C%EB%93%9C)를 참고해주세요.
 #### 1️⃣ 네트워크
 #### 2️⃣ DB
 #### 3️⃣ 자료구조
