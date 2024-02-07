@@ -1,6 +1,8 @@
 # 면접을 위한 CS 스터디
 > 2024.02.05 ~ 진행 중
 
+[기술 면접 대비를 위한 CS 스터디](https://github.com/dev-team-study/cs-study) 를 참고하였습니다.
+
 <br>
 
 ## 💚 스터디 진행 방식
@@ -54,7 +56,7 @@ cs-study-for-tech-interview
 <br>
 
 ## 📌 키워드
-> 키워드 상세는 [Wiki](https://github.com/hi-min-study/cs-study-for-tech-interview/wiki/%F0%9F%93%8D-%ED%82%A4%EC%9B%8C%EB%93%9C)를 참고해주세요.
+> 키워드 상세는 [Wiki](https://github.com/hi-min-study/cs-study-for-tech-interview/wiki/%F0%9F%93%8C-%ED%82%A4%EC%9B%8C%EB%93%9C)를 참고해주세요.
 #### 1️⃣ 네트워크
 #### 2️⃣ DB
 #### 3️⃣ 자료구조
