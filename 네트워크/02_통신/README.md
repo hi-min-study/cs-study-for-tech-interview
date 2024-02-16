@@ -20,8 +20,4 @@
     - DNS
 
 ### 📍 질문 모음
-1. 이슬
-2. 예진
-3. 병곤
-4. 범모
-5. 준혁
+https://github.com/hi-min-study/cs-study-for-tech-interview/issues/7
