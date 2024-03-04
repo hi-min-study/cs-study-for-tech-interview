@@ -59,10 +59,10 @@ cs-study-for-tech-interview
 > 키워드 상세는 [Wiki](https://github.com/hi-min-study/cs-study-for-tech-interview/wiki/%F0%9F%93%8C-%ED%82%A4%EC%9B%8C%EB%93%9C)를 참고해주세요.
 #### 1️⃣ 네트워크
 #### 2️⃣ DB
-#### 3️⃣ 자료구조
-#### 4️⃣ 운영체제
-#### 5️⃣ Spring
-#### 6️⃣ Java
+#### 3️⃣ Spring
+#### 4️⃣ Java
+#### 5️⃣ 자료구조
+#### 6️⃣ 운영체제
 #### 7️⃣ 기타
 
 <br>
